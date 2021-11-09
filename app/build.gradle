@@ -23,9 +23,9 @@ android {
     }
 
     // Enables data binding.
-    buildFeatures {
+   buildFeatures {
         viewBinding true
-    }
+   }
 }
 
 dependencies {
